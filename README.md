@@ -74,6 +74,7 @@ It integrates purchase, sales, and inventory data to generate insights on profit
 - Extend analysis to **predictive modeling** for vendor performance.  
 
 ---
+## Drive Link of Project: https://drive.google.com/drive/folders/1k2AWwDYA1AjbGM-0fZ1gJLhTX85mTv0f?usp=sharing
 
 ## 📷 Project Screenshot
 
